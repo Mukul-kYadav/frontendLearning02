@@ -65,7 +65,7 @@ I would like to learn more intereting features of bootstrap and also start learn
 ## Author
 
 - Website - Mukul Kumar Yadav
-- Frontend Mentor - [@Mukul_Kyadav](https://www.frontendmentor.io/profile/Mukul_Kyadav)
+- Frontend Mentor - [@Mukul-Kyadav](https://www.frontendmentor.io/profile/Mukul-Kyadav)
 - Twitter - [@Mukul_Kyadav](https://www.twitter.com/Mukul_Kyadav)
 
 

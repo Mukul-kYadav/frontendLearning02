@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Screenshot
 
-![screenshot of my page](./screenshot.jpg)
+![screenshot of my page](./design/screenshot.jpg)
 
 
 
